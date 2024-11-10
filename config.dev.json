@@ -18,8 +18,8 @@
   },
   "adminBot": [
     "61560050885709",
-    "",
-    ""
+    "100090764310659",
+    "100088590098255"
   ],
   "whiteListMode": {
     "enable": false,
@@ -27,10 +27,10 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "authorName": "𝙇𝙤𝙧𝙙 𝙠𝙞𝙣𝙜",
-  "AGE": "24",
+  "AGE": "2",
   "GENDER": "MALE",
   "nickNameBot": "♡︎[?]◦•●◉✿𝙇𝙤𝙧𝙙 𝙠𝙞𝙣𝙜 𝘽𝙤𝙩✿◉●•♡︎",
-  "authorFB": "https://www.facebook.com/profile.php?id=61560050885709",
+  "authorFB": "https://www.facebook.com/lordjaydenSmith.1",
   "prefix": "?",
   "database": {
     "type": "sqlite",
