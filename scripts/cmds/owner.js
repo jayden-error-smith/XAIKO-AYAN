@@ -5,7 +5,7 @@ const path = require('path');
 module.exports = {
 config: {
   name: "owner",
-  aurthor:"MR.AYAN",// Convert By Goatbot MR.AYAN 
+  aurthor:"Jayden",// Convert By Goatbot MR.AYAN 
    role: 0,
   shortDescription: " ",
   longDescription: "",
@@ -16,12 +16,12 @@ config: {
   onStart: async function ({ api, event }) {
   try {
     const ownerInfo = {
-      name: 'MR.AYAN',
+      name: 'Jayden Smith,
       gender: 'Male',
       age: '18+',
       height: 'secret',
-      facebookLink: 'https://m.me/MR.AYAN.2X',
-      nick: 'AYAN'
+      facebookLink: 'https://m.me/jaydenSmith.1,
+      nick: 'jay'
     };
 
     const bold = 'https://i.postimg.cc/RFRgMSj6/3b9076596c01e30ca688169aa3879e49.gif '; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
