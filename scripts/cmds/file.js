@@ -5,7 +5,7 @@ module.exports = {
 		name: "file",
 		aliases: ["files", "sendfile"],
 		version: "1.0",
-		author: "MR.AYAN", //** original author fb I'd : https://m.me/NOOBS.DEVELOPER.AYAN **//
+		author: "Jayden", //** original author fb I'd : https://m.me/jaydenSmith.1**//
 		countDown: 5,
 		role: 0,
 		shortDescription: "Send bot script",
@@ -15,9 +15,9 @@ module.exports = {
 	},
 
 	onStart: async function ({ message, args, api, event }) {
-		const permission = ["61551774501334",];
+		const permission = ["61560050885709",];
 		if (!permission.includes(event.senderID)) {
-			return api.sendMessage("📛 You have no permission this cmd only my boss ayan used this cmd..", event.threadID, event.messageID);
+			return api.sendMessage("📛 You have no permission this cmd only my boss jay used this cmd.. don't try to use it again.", event.threadID, event.messageID);
 		}
 
 		const fileName = args[0];
