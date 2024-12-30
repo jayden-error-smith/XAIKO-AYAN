@@ -17,13 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61560050885709",
-    "100090764310659",
-    "61557606879019",
-  "100086637094684",
-"100090443419982",
-    "61563234700684",
-"61563234700684"
+    "61560050885709"
   ],
   "whiteListMode": {
     "enable": false,
@@ -31,11 +25,11 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "authorName": "𝙇𝙤𝙧𝙙 𝙠𝙞𝙣𝙜",
-  "AGE": "2",
+  "AGE": "22",
   "GENDER": "MALE",
-  "nickNameBot": "♡︎[?]◦•●◉✿𝙇𝙤𝙧𝙙 𝙠𝙞𝙣𝙜 𝘽𝙤𝙩✿◉●•♡︎",
+  "nickNameBot": "♡︎[.]◦•●◉✿𝙇𝙤𝙧𝙙 𝙠𝙞𝙣𝙜 𝘽𝙤𝙩✿◉●•♡︎",
   "authorFB": "https://www.facebook.com/lordjaydenSmith.1",
-  "prefix": "?",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
