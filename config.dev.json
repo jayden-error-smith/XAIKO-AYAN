@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "jaybot4278@gmail.com",
+    "password": "jaysmith@bot",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -18,7 +18,8 @@
   },
   "adminBot": [
     "61560050885709",
-    "61562072981070"
+    "61562072981070",
+"61557703289417"
   ],
   "whiteListMode": {
     "enable": false,
